@@ -44,12 +44,14 @@
 
 - 🗓️ **Automatic Course Scheduler** *(Python, Optimization Algorithms)* – Designed a system that generates university schedules automatically; reduced scheduling time from hours to seconds
 - 🗺️ **KON-BIS Regional Information System** *(Flutter, Dart)* – Built a cross-platform mobile app providing centralized regional data access for Konya province
+- 🏋️ **Gym Member Tracking App** – Developed an application to manage and track gym member check-ins and attendance
+- 🖥️ **PC Laboratory Tracking App** – Developed an application to monitor and manage PC laboratory usage and availability
 
 ---
 
 ### 📫 Let's Connect
 
-- 📩 Email: [melihakcam0@gmail.com](mailto:melihakcam0@gmail.com)
+- 📩 Email: [<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8be6eee7e2e3eae0e8eae6bbcbece6eae2e7a5e8e4e6">[email&#160;protected]</a>](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e38e868f8a8b828880828ed3a3848e828a8fcd808c8e">[email&#160;protected]</a>)
 - 💼 [LinkedIn](https://www.linkedin.com/in/melihakcam/)
 
 ---
@@ -63,10 +65,4 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melihakcam&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihakcam&layout=compact&theme=radical" alt="langs"/>
-</p>
-
----
-
-<p align="center">🚀 Always building, always learning!</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=melihakcam
