@@ -8,7 +8,7 @@
 
 ### 💻 About Me
 
-- 🎓 1st year student at Konya Technical University – AI & Machine Learning department
+- 🎓 Student at Konya Technical University – AI & Machine Learning department
 - 🤖 Experienced in Deep Learning, NLP, and Computer Vision — turning theory into real projects
 - 📱 Built cross-platform mobile apps with **Flutter/Dart** to bring AI solutions to real users
 - 🔬 Comfortable with the full ML pipeline: data preprocessing → model training → evaluation
@@ -33,24 +33,17 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-#### ⚙️ Tools
+#### ⚙️ Tools & Technologies
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Projects
+### 🏆 Awards & Projects
 
-**🗓️ Automatic Course Scheduler** *(Python, Optimization Algorithms)*
-- Designed a system that automatically generates university course schedules without conflicts
-- Used constraint-based optimization to assign classrooms, instructors, and time slots efficiently
-- Reduced scheduling time from hours to seconds compared to manual processes
-
-**🗺️ KON-BIS Regional Information System** *(Flutter, Dart, Data Management)*
-- Built a regional data platform providing centralized access to local information for Konya province
-- Developed data collection, processing, and visualization modules for non-technical users
-- Delivered a fully functional cross-platform mobile app for real-world civic use
+- 🗓️ **Automatic Course Scheduler** *(Python, Optimization Algorithms)* – Designed a system that generates university schedules automatically; reduced scheduling time from hours to seconds
+- 🗺️ **KON-BIS Regional Information System** *(Flutter, Dart)* – Built a cross-platform mobile app providing centralized regional data access for Konya province
 
 ---
 
