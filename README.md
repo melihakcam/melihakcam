@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Melih 👋! </h1>
 <p align="center">
   <i>A passionate AI & ML student focused on building real-world solutions with data and code.</i><br/>
-  🎓 Artificial Intelligence & Machine Learning student at <b>Konya Technical University</b> (GPA: 3.08 / 4.00)
+  🎓 Artificial Intelligence & Machine Learning student at <b>Konya Technical University</b> (GPA: 3.26 / 4.00)
 </p>
 
 ---
